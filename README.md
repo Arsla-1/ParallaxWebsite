@@ -1,1 +1,2 @@
 # ParallaxWebsite Project
+This is the mini Project from the web developement course by Newton School. The mentioned project consists of a website containing parallax effect . Various CSS properties have been used in the designing of this web page. eg-Flexbox. Parallax scrolling is a web site trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling. 
